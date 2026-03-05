@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ForPlay1
-- 👀 I’m interested in programming, logic)
-- 🌱 I’m currently learning C++, JS)
+- 👀 I’m interested in programming, obviously 
+- 🌱 I’m currently learning C++, Matn on Python in the university MIET, Russia
 - ❤️‍🔥 Currently I know Python very well, but C++ and JS in progress 😉
 
 <!---
